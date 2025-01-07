@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="assets/gh_cover.png"  />
+  <img src="assets/gh_cover.png"  />
 </div>
 
 ###
