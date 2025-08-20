@@ -13,15 +13,19 @@ Results-driven **Senior Software Engineer** with a strong background in **full-s
 ## **Professional Experience**
 
 ### **Senior Software Engineer**  
-**Siteimprove** | 04/2024 – Present | Denmark (Remote)  
+**Siteimprove (Consultant via PrimeIT)** | 04/2024 – Present | Denmark (Remote)  
 - Maintained and enhanced CMS integration plugins for seamless accessibility compliance.
 - Developed a cross-browser extension integrating with CMPs and EMPs.
 - Modernized internal tools to improve efficiency across teams.
 - Created reusable internal packages to streamline development processes.
 - Led the development of a **new TypeScript SDK**, ensuring backward compatibility.
+- Standardized **unit testing with Vitest** across key repositories, achieving **≥85% coverage**, reducing regressions and increasing release confidence.
+- Drove a **documentation overhaul** (READMEs, contribution guides, architecture notes), improving knowledge sharing and accelerating onboarding.
+- Coordinated a **company rebranding rollout** across projects by updating **design tokens**, **component libraries**, assets, and documentation, ensuring consistent brand application and faster delivery.
 
 ### **Senior Software Engineer**  
-**PrimeIT** | 01/2022 – 04/2024 | Portugal (Remote)  
+**PrimeIT** | 01/2022 – Present | Portugal (Remote)  
+- Assigned as **Senior Software Engineer** at **Siteimprove** (04/2024 – Present), operating as a consultant through PrimeIT.
 - Operated in a **small, fast-paced internal team**, functioning like a startup.
 - Developed **modern websites** using **Next.js, React, and Node.js**.
 - Led development of **internal CRM and HR/Accounting tools** (.NET, React).
@@ -67,7 +71,7 @@ PostgreSQL | MongoDB | MySQL | Redis
 ### **DevOps & Cloud**
 AWS | Azure | Docker | Kubernetes | Terraform  
 ### **Tools & Workflow**
-Jira | CI/CD | Microservices Architecture  
+Jira | CI/CD | Microservices Architecture | Vitest | Unit Testing | Documentation  
 
 ---
 
