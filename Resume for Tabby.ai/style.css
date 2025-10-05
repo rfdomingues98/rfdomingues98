@@ -20,12 +20,7 @@
                 margin: 0 .05em 0 .1em;
                 vertical-align: -0.1em;
             }
-            
-            @media print {
-                * {
-                    display: none !important;
-                }
-            }
+
             body {
                 padding: 48px;
                 user-select: none;
